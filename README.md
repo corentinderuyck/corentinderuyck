@@ -10,4 +10,4 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-Computer Engineering graduate from [Université catholique de Louvain](http://uclouvain.be), currently working as a Software Engineer at [Odoo](http://odoo.com) Belgium.
+Computer Engineering graduate from [UCLouvain](http://uclouvain.be), currently working as a Software Engineer at [Odoo](http://odoo.com) Belgium.
