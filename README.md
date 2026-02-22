@@ -10,5 +10,4 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-📚 I am a fifth-year civil engineering student in computer science at the [Université catholique de Louvain](http://uclouvain.be).
-
+Computer Engineering graduate from [Université catholique de Louvain](http://uclouvain.be), currently working as a Software Engineer at [Odoo](http://odoo.com) Belgium.
